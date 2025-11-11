@@ -1,15 +1,39 @@
-<h3 align="left">👩‍💻 About Me</h3>
-
-<div style="display:flex; align-items:flex-start; justify-content:space-between; gap:40px; flex-wrap:wrap;">
-  <div style="flex:1; min-width:260px;">
-    <p align="left">
-      I'm Suciu Constantin-Alexandru from Romania<br><br>
-      - 🧑‍💻 I’m working as a Full-Stack Web Developer<br>
-      - 🎮 Currently learning Unreal Engine<br>
-      - ⚡ In my free time I work with Arduino
-    </p>
-  </div>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+###
+
+<div align="center" style="display:flex;justify-content:center;gap:6px;align-items:center;flex-wrap:wrap;">
+  <a href="https://www.linkedin.com/in/alexandru-suciu-7559b1262/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="al3xandru." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+  <a href="@Al3xandru2005" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+  </a>
+</div>
+
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alexandru200509.Alexandru200509&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Suciu Constantin-Alexandru from Romania<br><br>- 🔭 I’m working as Full-Stack Web Dev<br>- 📚 I'm currently learning Unreal Engine<br>- ⚡ In my free time I am working with arduino</p>
 
 ###
 
@@ -82,9 +106,15 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
-<div align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexandru200509&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="250" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Alexandru200509&theme=dark&hide_border=false" height="250" alt="streak graph" />
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexandru200509&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Alexandru200509&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
